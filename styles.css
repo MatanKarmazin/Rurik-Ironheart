@@ -52,7 +52,12 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
 
+.spell-table {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 table {
