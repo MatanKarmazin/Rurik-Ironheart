@@ -15,7 +15,7 @@ Rurik-Ironheart is my very first front-end development project. The site is buil
 
 Rurik-Ironheart/
 ├── index.html          # Main entry point
-├── spells.html         # Supplementary page: showcases Rurik’s spells
+├── spells.html         # Supplementary page: showcases Rurik’s most used spells
 ├── styles.css          # Project styling
 ├── script.js           # Core JavaScript
 └── README.md           # Project documentation
