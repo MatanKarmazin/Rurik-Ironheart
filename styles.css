@@ -82,3 +82,25 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.fighting-simulator {
+    text-align: center;
+    margin: 40px 0;
+}
+
+#sim-result {
+    margin-top: 20px;
+    /* font-weight: bold; */
+}
+
+.abilities-skills {
+    display: flex-start;
+    gap: 50px;
+    text-align:justify;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+#abilities, #skills {
+    text-align: center;
+}
